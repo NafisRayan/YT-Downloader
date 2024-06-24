@@ -21,7 +21,7 @@ To get started with this project, ensure you have Python installed on your syste
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/yourusername/YT-Downloader.git
+   git clone https://github.com/NafisRayan/YT-Downloader.git
    cd YT-Downloader
    ```
 
