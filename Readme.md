@@ -2,6 +2,8 @@
 
 This project is a simple yet powerful tool designed to download videos from YouTube in either MP4 or MP3 formats. It leverages the Flask framework for its web interface and uses the PyTube library to handle the downloading process.
 
+![YouTube Downloader Interface](https://github.com/NafisRayan/YT-Downloader/blob/main/static/css/ytDownloader.png)
+
 ## Features
 
 - Download YouTube videos in high resolution (MP4).
